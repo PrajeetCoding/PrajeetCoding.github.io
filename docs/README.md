@@ -5,4 +5,4 @@ Welcome to my personal website.  You will find my professional qualifications, b
 
 # Table of Contents
 
-* [Resume](docs/resume.md)
+* [Resume](/docs/resume.md)
