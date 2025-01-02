@@ -4,4 +4,5 @@ plugins:
   - jekyll-remote-theme # Add the plugin
 
 # remote_theme: daviddarnes/alembic@main # Replace with the theme repo
-theme: jekyll-theme-so-simple
+# theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
