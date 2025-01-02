@@ -3,5 +3,5 @@ title: Prajeet Basu
 plugins:
   - jekyll-remote-theme # Add the plugin
 
-remote_theme: daviddarnes/alembic@main # Replace with the theme repo
-
+# remote_theme: daviddarnes/alembic@main # Replace with the theme repo
+theme: jekyll-theme-so-simple
