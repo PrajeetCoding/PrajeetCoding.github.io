@@ -2,7 +2,7 @@
 
 # Welcome
 
-Welcome to my personal website.  You will find my professional qualifications, blogs, and potentially content relating to my other interests.  
+Welcome to my personal website! I like data, come see how I use it and then pay me.
 
 ---
 
