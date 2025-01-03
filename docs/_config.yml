@@ -6,3 +6,10 @@ plugins:
 # remote_theme: daviddarnes/alembic@main # Replace with the theme repo
 # theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+locale: en-US
+title: "So Simple"
+description: "A simple Jekyll theme for words and pictures."
+baseurl: "/so-simple-theme"
+url: "https://mmistakes.github.io"
+logo: "/images/so-simple-site-logo.png"
