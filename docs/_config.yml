@@ -16,3 +16,11 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+
