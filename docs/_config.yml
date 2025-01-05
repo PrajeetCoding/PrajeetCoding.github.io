@@ -35,3 +35,6 @@ plugins:
   - jekyll-paginate
   - jekyll-redirect-from
 
+author:
+  name: Prajeet Basu
+  email: prajeet100@gmail.com
