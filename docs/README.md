@@ -2,11 +2,4 @@
 
 # Welcome
 
-Welcome to my personal website! I like data, come see how I use it and then pay me.
-
----
-
-# Table of Contents
-
-* [Resume](resume.md)
-* [Blog](blog-home.md)
+This is my personal website where I will be documenting my progress with various data science and coding projects.  Feel free to navigate through and contact me with any questions or inquiries.
