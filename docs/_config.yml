@@ -10,7 +10,7 @@ locale: en-US
 title: "Prajeet Basu"
 description: " 'A man's dreams will never end' "
 baseurl: "/prajeetbasu"
-url: "https://PrajeetCoding.github.io"
+url: "https://prajeetcoding.github.io"
 logo: "/images/chicago.jpg"
 google_fonts:
   - name: "Source Sans Pro"
