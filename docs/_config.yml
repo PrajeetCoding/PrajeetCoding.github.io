@@ -9,8 +9,8 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
 title: "Prajeet Basu"
 description: " 'A man's dreams will never end' "
-baseurl: "/prajeet-basu"
-url: "https://prajeetcoding.github.io"
+#baseurl: "/prajeet-basu"
+#url: "https://prajeetcoding.github.io"
 logo: "/images/chicago.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
