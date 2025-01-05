@@ -21,6 +21,8 @@ skin: "/assets/css/skins/dark.css"
 paginate: 10  # amount of posts to show per page
 paginate_path: /page:num/
 
+copyright: "This site is made by Prajeet Basu."
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
