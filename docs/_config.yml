@@ -14,6 +14,7 @@ description: " 'A man's dreams will never end' "
 logo: "/images/chicago.jpg"
 date_format: "%B %-d, %Y"
 read_time: true
+words_per_minute: 150
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
