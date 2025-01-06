@@ -6,3 +6,5 @@
 #  url: https://whatever-site.com/page.html
 - title: Search
   url: /search/
+- title: About Me
+  url: /about-me/
